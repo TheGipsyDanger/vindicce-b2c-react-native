@@ -1,6 +1,6 @@
 {
   "name": "vindicce-b2c-react-native",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "React Native Azure B2C auth using JS. This doesn't require eject from expo.",
   "main": "index.js",
   "files": [
